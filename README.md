@@ -44,8 +44,5 @@ To view the weather forecast for several days, go to the appropriate tabs. Each 
 
 ## Demo:
 
-You can access the live demo of this application [here](https://react-weather-app-rust-theta.vercel.app/)
+You can access the live demo of this application [here]()
 
-## Author:
-
-If you have any questions or suggestions regarding this project, feel free to contact the project owner: [here](https://github.com/Geletsky)
