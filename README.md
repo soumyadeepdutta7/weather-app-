@@ -18,7 +18,7 @@ This is a weather applications built using React that allows users to check the 
 
 ```bash
 # Clone the repository:
-git clone https://github.com/Geletsky/react-weather-app.git
+git clone https://github.com/soumyadeepdutta7/weather-app-.git
 
 # Navigate to the project directory:
 cd project-directory
